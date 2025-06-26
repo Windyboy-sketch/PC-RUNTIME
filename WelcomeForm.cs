@@ -61,7 +61,7 @@ namespace PCPlaytimeTracker
             {
                 Process.Start(new ProcessStartInfo
                 {
-                    FileName = "https://github.com/your-repo/pc-playtime-tracker",
+                    FileName = "https://github.com/Windyboy-sketch/PC-RUNTIME",
                     UseShellExecute = true
                 });
             };
